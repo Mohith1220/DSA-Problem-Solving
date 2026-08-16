@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
