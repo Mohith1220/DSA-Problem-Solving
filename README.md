@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
@@ -91,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
