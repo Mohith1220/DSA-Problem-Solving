@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
