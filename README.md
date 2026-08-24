@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
@@ -226,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
