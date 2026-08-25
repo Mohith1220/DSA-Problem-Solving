@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
