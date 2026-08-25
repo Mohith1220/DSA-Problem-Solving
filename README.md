@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1046-last-stone-weight](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
