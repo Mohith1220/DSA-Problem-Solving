@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1046-last-stone-weight) |
 ## Design
@@ -266,4 +269,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
