@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
