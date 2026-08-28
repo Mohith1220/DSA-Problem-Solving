@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
