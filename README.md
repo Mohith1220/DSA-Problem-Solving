@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
+| [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0841-keys-and-rooms) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0841-keys-and-rooms) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
