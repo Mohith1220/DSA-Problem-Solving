@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
