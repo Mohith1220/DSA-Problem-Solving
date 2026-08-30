@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1927-sum-game) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
