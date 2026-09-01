@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
 | [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1046-last-stone-weight) |
