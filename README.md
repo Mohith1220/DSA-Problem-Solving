@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Coloring
 |  |
 | ------- |
