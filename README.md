@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1927-sum-game) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
+| [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1046-last-stone-weight) |
 ## Design
 |  |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quickselect
 |  |
