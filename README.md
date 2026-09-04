@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
