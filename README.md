@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Longest Increasing Subsequence
