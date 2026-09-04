@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
