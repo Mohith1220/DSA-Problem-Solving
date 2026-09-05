@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
