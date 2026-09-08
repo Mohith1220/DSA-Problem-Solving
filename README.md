@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0133-clone-graph) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
