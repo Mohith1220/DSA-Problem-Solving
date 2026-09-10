@@ -467,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
