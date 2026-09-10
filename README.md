@@ -471,4 +471,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0178-rank-scores) |
+| [1193-monthly-transactions-i](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
