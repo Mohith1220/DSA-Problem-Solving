@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0127-word-ladder) |
+| [0179-largest-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0179-largest-number) |
 | [0692-top-k-frequent-words](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0502-ipo](https://github.com/Mohith1220/DSA-Problem-Solving/tree/master/0502-ipo) |
